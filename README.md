@@ -43,4 +43,4 @@
 ### 발표 PPT자료
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/91f23948-eeed-436a-83b0-42ffc161320c)
 
-[최종발표 PPT](https://github.com/kwanyeong/e-convient-Life-Service/files/13269935/ECO._.pptx)
+[최종발표 PPT](https://github.com/kwanyeong/Machine-Vision/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx)
