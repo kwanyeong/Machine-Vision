@@ -42,4 +42,4 @@
 ---
 ### 발표 PPT자료
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/91f23948-eeed-436a-83b0-42ffc161320c)
-[최종발표 PPT](https://github.com/kwanyeong/Machine-Vision/files/13269935/프로젝트 결과보고서.pptx)
+[머신비전 프로젝트 발표 PPT](https://github.com/kwanyeong/Machine-Vision/files/15148029/default.pptx)
