@@ -1,4 +1,4 @@
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/19d4220a-996e-4f86-b0da-4f7ee5a4ebea)# 📸 Machine-Vision
+# 📸 Machine-Vision
 ---
 ### 프로젝트 주제
 - 딥러닝 기반 약물 패키징 검사
