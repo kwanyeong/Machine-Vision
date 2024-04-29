@@ -32,7 +32,8 @@
 ### 활용방안 및 기대효과
 - Object Detection 패키징 검사시스템 확장
 
-
-##### 시연영상
+---
+### 시연영상
 [![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/67af54d5-5943-4bb3-aed6-b9d1464323d4)](https://www.youtube.com/watch?v=bYPGRWwtdWc)
+
 [시연영상](https://www.youtube.com/watch?v=bYPGRWwtdWc)
