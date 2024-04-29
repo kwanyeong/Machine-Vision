@@ -24,7 +24,7 @@
 
 ---
 ### 프로젝트 결과
-- 학습결과 : 정확도 100% (Confusion matrix 결과)
+- 학습결과 : 정확도 100%
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/f0ad4a05-8a50-41ff-9bb9-5ba9f197075a)
 
 
@@ -34,5 +34,5 @@
 
 
 ##### 시연영상
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/db6fe353-7a79-450f-bcc0-6cd69157ee16)
+![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/67af54d5-5943-4bb3-aed6-b9d1464323d4)
 (https://www.youtube.com/watch?v=bYPGRWwtdWc)
