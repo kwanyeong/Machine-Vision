@@ -7,13 +7,13 @@
 ### 프로젝트 내용
 - GigE Vision Camera Interface를 이용한 AreaScan 영상 스트리밍
 - Open eVision 툴을 사용한 Rule-based learning (Match / OCR / QR Code 인식)
-- Deep learning Studio 툴을 사용한 딥러닝 학습 및 적용모델 시연 (Locate (bounding box)) 
+- Deep Learning Studio 툴을 사용한 딥러닝 학습 및 적용모델 시연 (Locate (Bounding box))
 
 ---
 ### 활용 장비 및 재료
 - Sentech 133 POE GigE Vision카메라
 - C# Firmware 기반 WinForm S/W 개발환경
-- 제조사 머신비전 툴(Open eVision / Deep learning Studio)
+- 제조사 머신비전 툴(Open eVision / Deep Learning Studio)
 - 검사용 장비 및 재료
   
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/3d5503cf-3614-40bd-a543-d05c04dc1538)
