@@ -27,7 +27,8 @@
 ---
 ### 프로젝트 결과
 - 학습결과 : 정확도 100%
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/f0ad4a05-8a50-41ff-9bb9-5ba9f197075a)
+![사진](https://github.com/kwanyeong/Machine-Vision/assets/124857002/1dd7d669-85c8-4468-8ca4-1628875a3944)
+
 
 
 ---
