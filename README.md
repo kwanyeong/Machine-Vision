@@ -23,9 +23,12 @@
 ---
 ### 프로젝트 구조 및 설명
 - 프로젝트 구조 : QR코드 인식 -> 환자정보 파악 -> 환자정보 식별번호 ROI 영역 Match -> 처방전 복용약 패키징 검사 -> Object Detection - Locate 위치탐색 -> Detect 결과생성
+
+![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/f5f48071-b8ce-4954-8d25-4465ebd81dc4)
+
 - Open eVision 및 Deep Learning Studio 툴을 활용한 모델 학습
 - C# WinForm 기반 카메라 영상 취득 및 스트리밍
--학습모델을 적용한 객체인식 및 딥러닝 학습모델 적용
+- 학습모델을 적용한 객체인식 및 딥러닝 학습모델 적용
 
 ---
 ### 프로젝트 결과
