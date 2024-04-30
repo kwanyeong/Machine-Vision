@@ -15,25 +15,22 @@
 - C# Firmware 기반 WinForm S/W 개발환경
 - 제조사 머신비전 툴(Open eVision / Deep learning Studio)
 - 검사용 장비 및 재료
-
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/3d5503cf-3614-40bd-a543-d05c04dc1538)
 ![사진](https://github.com/kwanyeong/Machine-Vision/assets/124857002/1dd7d669-85c8-4468-8ca4-1628875a3944)
 
 
 ---
 ### 프로젝트 구조 및 설명
-- 프로젝트 구조 : QR코드 인식 -> 환자정보 파악 -> 환자정보 식별번호 ROI 영역 Match -> 처방전 복용약 패키징 검사 -> Object Detection - Locate 위치탐색 -> Detect 결과생성
-
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/6d0f373a-cbe9-4460-bf97-982b136b92e8)
 - Open eVision 및 Deep Learning Studio 툴을 활용한 모델 학습
 - C# WinForm 기반 카메라 영상 취득 및 스트리밍
 - 학습모델을 적용한 객체인식 및 딥러닝 학습모델 적용
+- 프로젝트 구조 : QR코드 인식 -> 환자정보 파악 -> 환자정보 식별번호 ROI 영역 Match -> 처방전 복용약 패키징 검사 -> Object Detection - Locate 위치탐색 -> Detect 결과생성
+![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/6d0f373a-cbe9-4460-bf97-982b136b92e8)
 
 ---
 ### 프로젝트 결과
-- 학습결과 : 정확도 100%
-- 
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/c7db9da9-efda-40a2-8b64-4ba807115e64)
+- 학습결과 : 정확도 100% 
+![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/03943062-f0d2-4638-9564-c4d571df655d)
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/2f8e7cec-9d49-497f-8870-78e1820673cf)
 
 
