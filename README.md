@@ -14,8 +14,9 @@
 - Sentech 133 POE GigE Vision카메라
 - C# Firmware 기반 WinForm S/W 개발환경
 - 제조사 머신비전 툴(Open eVision / Deep learning Studio)
-- 검사용 재료
+- 검사용 장비 및 재료
 
+![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/5f0dda8b-f309-4dcb-a762-d90f27b2524a)
 ![사진](https://github.com/kwanyeong/Machine-Vision/assets/124857002/1dd7d669-85c8-4468-8ca4-1628875a3944)
 
 
