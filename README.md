@@ -32,7 +32,7 @@
 ### 프로젝트 결과
 - 학습결과 : 정확도 100%
 
-![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/03943062-f0d2-4638-9564-c4d571df655d)
+![사진](https://github.com/kwanyeong/Machine-Vision/assets/124857002/ded7fcad-dd79-4275-a657-b438f5d0a62c)
 ![image](https://github.com/kwanyeong/Machine-Vision/assets/124857002/2f8e7cec-9d49-497f-8870-78e1820673cf)
 
 
