@@ -63,9 +63,8 @@
 ### 프로젝트 주제_2
 - Powder & Pad 이미지 데이터 Auto-Labeling Tool
   
-[![Powder]<img width="1343" height="516" alt="image" src="https://github.com/user-attachments/assets/9ca13051-4348-45fe-b41b-ca34e4be68c7" />]
-
-[![Pad]<img width="1044" height="397" alt="image" src="https://github.com/user-attachments/assets/25637a72-160c-403b-9c7d-1d8eb0e6a372" />]
+<img width="1343" height="516" alt="image" src="https://github.com/user-attachments/assets/9ca13051-4348-45fe-b41b-ca34e4be68c7" />]
+<img width="1044" height="397" alt="image" src="https://github.com/user-attachments/assets/25637a72-160c-403b-9c7d-1d8eb0e6a372" />]
 
 ---
 ### 프로젝트 내용
@@ -83,16 +82,16 @@
 
 ---
 ### 프로젝트 설명
-- 상용화된 객체 이미지와 달리 제조데이터 특성상 Pre-Training 된 Model 이 없기에 손수 Labeling 하는데 어려움이 발생. (MVTec 제조 Dataset 외 제조데이터 특징)  
-- 일반객체에 특화된 Zero-Shot Detection 모델 (Dino 등)은 특수 이미지(제조 등) 객체탐지에 취약하기에 학습용 labeling 이미지 dataset을 구축하는데 상당한 시간과 비용이 소모됨.
-- 이러한 문제점을 인지하고 이미지 전처리 기법 등을 활용하여 이미지 라벨링 없이도 쉽게 객체탐지(Object Detection) 및 학습용 Labeling을 쉽게 할 수 있는 S/W 개발함.
+- 상용화된 객체 이미지와 달리 제조데이터 특성상 Pre-Training 된 Model 이 없기에 손수 Labeling 하는데 어려움이 발생
+- 일반객체에 특화된 Zero-Shot Detection 모델 (Dino 등)은 특수 이미지 객체탐지에 취약하기에 학습용 labeling 이미지 dataset을 구축하는데 상당한 시간과 비용이 소모됨
+- 이러한 문제점을 인지하고 이미지 전처리 기법 등을 활용하여 이미지 라벨링 없이도 쉽게 객체탐지(Object Detection) 및 학습용 Labeling을 쉽게 할 수 있는 S/W 개발함
 - 해당 S/W 로 구축한 이미지 Dataset으로 Object Detection 및 Counting 수행
 
-![Pad Abnormal Detect1]<img width="1914" height="843" alt="2025-08-04 16_00_14 602" src="https://github.com/user-attachments/assets/7ac77a8c-adb1-44a6-91a3-54d253748d8a" />
-![Pad Abnormal Detect2]<img width="1904" height="819" alt="6" src="https://github.com/user-attachments/assets/8b38cdb4-fe3a-48d4-bcee-39ee961bd72f" />
-![Pad Abnormal Detect3]<img width="1911" height="806" alt="4" src="https://github.com/user-attachments/assets/ab04111d-08a4-46ee-9799-57614b5b0e7a" />
-![Powder Normal Detect1]<img width="1887" height="835" alt="image" src="https://github.com/user-attachments/assets/2211d1d9-c967-44cd-a791-1b7c7c5a9826" />
-![Powder Normal Detect2]<img width="1878" height="829" alt="image" src="https://github.com/user-attachments/assets/311aa966-8727-493d-822b-50125bb7f874" />
+<img width="1014" height="843" alt="2025-08-04 16_00_14 602" src="https://github.com/user-attachments/assets/7ac77a8c-adb1-44a6-91a3-54d253748d8a" />
+<img width="1004" height="819" alt="6" src="https://github.com/user-attachments/assets/8b38cdb4-fe3a-48d4-bcee-39ee961bd72f" />
+<img width="1011" height="806" alt="4" src="https://github.com/user-attachments/assets/ab04111d-08a4-46ee-9799-57614b5b0e7a" />
+<img width="1027" height="835" alt="image" src="https://github.com/user-attachments/assets/2211d1d9-c967-44cd-a791-1b7c7c5a9826" />
+<img width="1018" height="829" alt="image" src="https://github.com/user-attachments/assets/311aa966-8727-493d-822b-50125bb7f874" />
 
 
 
@@ -108,11 +107,14 @@
 ### 활용방안 및 기대효과
 - Normal/Abnormal 클래스 이미지 데이터 선별에 유용
 - 별도의 AI모델 구축없이도 Object Detection / Counting
-[Real-Time 기반 실시간 Object Detection Streaming 시연영상]<img width="1306" height="735" alt="image" src="https://github.com/user-attachments/assets/5cf5071e-efa1-4ecb-be6d-cec9e513f5fd" />
+
 
 ---
 ### 시연영상
 - 프로젝트 구조 : Normal/Abnormal 클래스 이미지 데이터 선별 Auto-Labeling -> Object Detection - Locate 위치탐색 -> Detect 결과(Counting 정보) 생성
+
+<img width="1911" height="806" alt="4" src="https://github.com/user-attachments/assets/54aed7b0-7462-43c7-9789-925c7b99e78f" />
+
 [시연영상](https://youtu.be/GUcdqP3DqsA)
 
 ---
