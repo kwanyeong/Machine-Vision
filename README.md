@@ -62,8 +62,10 @@
 ---
 ### 프로젝트 주제_2
 - Powder & Pad 이미지 데이터 Auto-Labeling Tool
-![Powder]<img width="1343" height="516" alt="image" src="https://github.com/user-attachments/assets/9ca13051-4348-45fe-b41b-ca34e4be68c7" />
-![Pad]<img width="1044" height="397" alt="image" src="https://github.com/user-attachments/assets/25637a72-160c-403b-9c7d-1d8eb0e6a372" />
+  
+[![Powder]<img width="1343" height="516" alt="image" src="https://github.com/user-attachments/assets/9ca13051-4348-45fe-b41b-ca34e4be68c7" />]
+
+[![Pad]<img width="1044" height="397" alt="image" src="https://github.com/user-attachments/assets/25637a72-160c-403b-9c7d-1d8eb0e6a372" />]
 
 ---
 ### 프로젝트 내용
@@ -76,6 +78,7 @@
 - Stereo Microscope (실체형 현미경(모델명 - High Cloud 1080P Video Microscope Camera) / 화소수: 48MP, FPS : 60FPS, 배율: ~180X
 - Python 기반 S/W 개발환경
 - 검사용 장비 및 재료
+
 <img width="1113" height="218" alt="image" src="https://github.com/user-attachments/assets/d15582e6-0b8e-4163-9931-b663a1c6b9f0" />
 
 ---
