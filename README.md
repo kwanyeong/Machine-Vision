@@ -113,7 +113,7 @@
 ### 시연영상
 - 프로젝트 구조 : Normal/Abnormal 클래스 이미지 데이터 선별 Auto-Labeling -> Object Detection - Locate 위치탐색 -> Detect 결과(Counting 정보) 생성
 
-<img width="1911" height="806" alt="4" src="https://github.com/user-attachments/assets/54aed7b0-7462-43c7-9789-925c7b99e78f" />
+[<img width="1911" height="806" alt="4" src="https://github.com/user-attachments/assets/54aed7b0-7462-43c7-9789-925c7b99e78f" />](https://www.youtube.com/watch?v=bYPGRWwtdWc)
 
 [시연영상](https://youtu.be/GUcdqP3DqsA)
 
